@@ -1,7 +1,7 @@
 # Jobify - Full-Stack MERN Application
 #### Complete App
 
-[Jobify](https://jobify.live/)
+[Jobify](https://jobify-mern-stack.onrender.com)
 
 Welcome to Jobify, a full-stack application built using MongoDB, Express, React, and Node.js. This project provides an immersive learning experience where you'll develop a dynamic web application from scratch.
 
